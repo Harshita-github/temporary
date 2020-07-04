@@ -4,4 +4,6 @@ print("This is my new repository")
 #install.packages("usethis")
 #library("usethis")
 #use_git_config(user.name="Harshita-github",user.email="hharshita_be18@thapar.edu")\
-#now lets hope for the best!
+#now lets hope for the best!!
+
+#I installed the usethis package then configured in R shell and was finally successfull yayyy!
